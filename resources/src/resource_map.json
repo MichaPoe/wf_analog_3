@@ -1,0 +1,16 @@
+{
+	"friendlyVersion": "0.1",
+	"versionDefName": "WF_ANALOG_3",
+	"media": [
+		{
+			"type": "png",
+			"defName": "IMAGE_MENU_ICON",
+			"file": "images/wf_analog_3_icon.png"
+		},
+	 	{
+			"type": "font",
+			"defName": "FONT_BLASTER_INFINITE_28",
+			"file": "fonts/blastein.ttf"
+		}
+	]
+}
